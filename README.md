@@ -1,2 +1,2 @@
-# epic-recipes
+# Odin-recipes
 Pimento Cheese waltuh
