@@ -5,6 +5,6 @@ Odin Recipes is going to consist of a main index page which will link to a coupl
 I will be only using HTML for now but in the future I will style it up with CSS.
 
 
-I hope you enjoy
+I hope you enjoy (also try not to die reading it)
 
 Ruskiius
