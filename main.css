@@ -1,0 +1,41 @@
+h1 {
+    background-color:  rgba(0, 36, 0, 0); 
+    font-weight: 1000;
+    letter-spacing: 3px;
+    text-decoration: underline; 
+    text-decoration-style: solid;
+    text-decoration-color: rgb(48, 117, 8);
+    display: inline-block;
+    margin-bottom: 0;
+    
+}
+.alpha {
+    background-color: rgba(82, 255, 76, 0.5);
+    
+}
+
+* {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 700;
+}
+
+#description {
+    padding-bottom: 10px;
+    padding-top: 15px;
+    margin: 0;
+}
+
+#list1 {
+    border: 5px solid rgb(48, 117, 8);
+    padding: 25px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    width: 220px;
+    margin: 0;
+    border-radius: 10px;
+}
+
+#list1 li {
+
+    padding-bottom: 10px;
+}
