@@ -4,13 +4,14 @@ h1 {
     letter-spacing: 3px;
     text-decoration: underline; 
     text-decoration-style: solid;
-    text-decoration-color: rgb(48, 117, 8);
+    text-decoration-color: rgb(0, 0, 0);
     display: inline-block;
     margin-bottom: 0;
     
 }
 .alpha {
-    background-color: rgba(82, 255, 76, 0.5);
+    background: rgb(25,138,23);
+background: linear-gradient(90deg, rgba(25,138,23,1) 23%, rgba(144,232,134,1) 67%, rgba(254,255,255,1) 100%);
     
 }
 
@@ -26,13 +27,12 @@ h1 {
 }
 
 #list1 {
-    border: 5px solid rgb(48, 117, 8);
-    padding: 25px;
-    padding-top: 5px;
-    padding-bottom: 5px;
+    border: 5px solid rgb(0, 0, 0);
+    
     width: 220px;
-    margin: 0;
+    height: 80px;
     border-radius: 10px;
+    padding-top: 10px;
 }
 
 #list1 li {
