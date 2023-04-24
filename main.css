@@ -9,6 +9,21 @@ h1 {
     margin-bottom: 0;
     
 }
+
+h2 {
+    background-color:  rgba(0, 36, 0, 0); 
+    font-weight: 1000;
+    letter-spacing: 3px;
+    text-decoration: underline; 
+    text-decoration-style: solid;
+    text-decoration-color: rgb(0, 0, 0);
+   
+    
+}
+
+
+
+
 .alpha {
     background: rgb(25,138,23);
 background: linear-gradient(90deg, rgba(25,138,23,1) 23%, rgba(144,232,134,1) 67%, rgba(254,255,255,1) 100%);
