@@ -38,4 +38,20 @@ background: linear-gradient(90deg, rgba(25,138,23,1) 23%, rgba(144,232,134,1) 67
 #list1 li {
 
     padding-bottom: 10px;
+
+}
+
+#listitem1:hover {
+    font-size: 105%;
+    color: rgb(0, 99, 0);
+}
+
+#listitem2:hover {
+    font-size: 105%;
+    color: rgb(0, 99, 0);
+}
+
+#listitem3:hover {
+    font-size: 105%;
+    color: rgb(0, 99, 0);
 }
