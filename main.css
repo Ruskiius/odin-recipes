@@ -70,3 +70,17 @@ background: linear-gradient(90deg, rgba(25,138,23,1) 23%, rgba(144,232,134,1) 67
     font-size: 105%;
     color: rgb(0, 99, 0);
 }
+
+footer {
+    background: rgb(48, 51, 48); 
+    text-align: center;
+    color: white;
+    position: fixed;
+    padding: 0;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+
+
+}
+
