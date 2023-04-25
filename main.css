@@ -56,6 +56,23 @@ background: linear-gradient(90deg, rgba(25,138,23,1) 23%, rgba(144,232,134,1) 67
 
 }
 
+#list1 li a:hover {
+        animation:flash 1s infinite;
+}
+
+@keyframes flash {
+    0% {
+      color: rgb(0, 0, 0);
+    }
+
+    50% {
+      color: rgb(78, 78, 78);
+    }
+    100% {
+      color: rgb(0, 0, 0);
+    }
+  }
+
 #listitem1:hover {
     font-size: 105%;
     color: rgb(0, 99, 0);
@@ -84,3 +101,19 @@ footer {
 
 }
 
+footer a:hover {
+    animation: pulse 1s infinite;
+  }
+  
+  @keyframes pulse {
+    0% {
+      color: white;
+    }
+    50% {
+      color: blue;
+    }
+    100% {
+      color: white;
+    }
+  }
+  
